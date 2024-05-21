@@ -6,8 +6,8 @@ I am an Independent Web3 security researcher, focusing on Dapps, and DeFi.
 I am doing contests on different platforms like code4rena and sherlock.
 
 Twitter: [@cambiroleurSB](https://twitter.com/cambrioleurSB)
-Discord: @[S2D3G5G](https://twitter.com/cambrioleurSB)
-Telegram: @[S2D3G5G](https://twitter.com/cambrioleurSB)
+Discord: @[senya](https://discord.com/channels/@me)
+Telegram: @[Ars](https://t.me/gg88888a)
 
 # Audits
 Audit Portfolio 💼 
