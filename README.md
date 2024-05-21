@@ -14,8 +14,8 @@ Audit Portfolio 💼
 
 |Contest|Description|Findings|Report|
 |-------|-----------|--------|------|
-|Curves|SocialFi/Staking|1H|-|
+|Curves|SocialFi/Staking|1H|[📄](https://github.com/Senya123/Contests/blob/main/Curves.md)|
 |Blast|Layer2/Bridge|-|-|
-|Titles|SocialFi|2H, 2M|-|
 |Panoptic|Options| - | - |
-|Noya| AI-agents/Layer0/DeFi| - | - |
+|Titles|SocialFi|2H, 2M|TBA|
+|Noya| AI-agents/Layer0/DeFi| 4H, 14M, 7L | TBA |
