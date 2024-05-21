@@ -1,13 +1,12 @@
 
 
 # About
-I am an Independent Web3 security researcher, focusing on Dapps, and DeFi.
+I am an Web3 security researcher, with the strong business background 
 
-I am doing contests on different platforms like code4rena and sherlock.
 
-Twitter: [@cambiroleurSB](https://twitter.com/cambrioleurSB)
-Discord: @[senya](https://discord.com/channels/@me)
-Telegram: @[Ars](https://t.me/gg88888a)
+Twitter: @[Arsen](https://twitter.com/cambrioleurSB)
+Discord: @[Arsen](https://discord.com/channels/@me)
+Telegram: @[Arsen](https://t.me/gg88888a)
 
 # Audits
 Audit Portfolio 💼 
@@ -19,3 +18,17 @@ Audit Portfolio 💼
 |Panoptic|Options| - | - |
 |Titles|SocialFi|2H, 2M|TBA|
 |Noya| AI-agents/Layer0/DeFi| 4H, 14M, 7L | TBA |
+
+
+# Background 
+Business developer at the "Game of Sana" (08/2023 - 01/2024)
+
+# Education
+|B.S Digital Business/Data Science|
+University of Europe for Applied Sciences
+
+|Smart contract hacking course|
+
+|Google Project Management Course|
+
+|Google Cybersecurity Course|
