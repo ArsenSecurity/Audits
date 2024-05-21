@@ -19,5 +19,6 @@ Audit Portfolio 💼
 |Titles|SocialFi|2H, 2M|TBA|
 |Noya| AI-agents/Layer0/DeFi| 4H, 14M, 7L | TBA |
 
-
+# Public works 
+[Web3 Security Articles]
 
