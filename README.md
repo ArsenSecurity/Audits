@@ -24,8 +24,8 @@ Audit Portfolio 💼
 Business developer at the "Game of Sana" (08/2023 - 01/2024)
 
 # Education
-|B.S Digital Business/Data Science|
-University of Europe for Applied Sciences
+|B.S Digital Business/Data Science|University of Europe for Applied Sciences|
+
 
 |Smart contract hacking course|
 
