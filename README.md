@@ -20,5 +20,5 @@ Audit Portfolio 💼
 |Noya| AI-agents/Layer0/DeFi| 4H, 14M, 7L | TBA |
 
 # Public works 
-[Web3 Security Articles]
+[Web3 Security Articles](https://mirror.xyz/0x3Cc99bfc69575CFA83658CAb5256D98143a2aAaa)
 
