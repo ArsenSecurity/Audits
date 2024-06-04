@@ -18,7 +18,7 @@ Audit Portfolio 💼
 |Panoptic|Options| - | - |
 |Titles|SocialFi|2H, 2M|[📄](https://github.com/Senya123/Contests/blob/main/Titles.md)|
 |Noya| AI-agents/Layer0/DeFi| 4H, 14M, 7L | TBA |
-|Sophon|Staking|2H, 1L|TBA|
+|Revert Lend|Lending|1H|[📄](https://code4rena.com/findings/past-finding/342?repo_name=2024-03-revert-lend-findings&issue_number=299)|
 
 
 # Public works 
