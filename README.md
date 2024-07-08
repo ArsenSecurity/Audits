@@ -5,7 +5,7 @@ I am 21 years old student of the Computer Science faculty. In the December 2023 
 
 **Twitter**: @[Arsen](https://twitter.com/cambrioleurSB) , 
 **Discord**: @[Arsen](https://discord.com/channels/@me) ,
-**Telegram**: @[Arsen](https://t.me/gg88888a) , 
+**Telegram**: @[Arsen](https://t.me/ars_bt) , 
 **Code4Arena** profile: [ArsenLupin](https://code4rena.com/@ArsenLupin) ,
 **Sherlock** profile: [ArsenLupin](https://audits.sherlock.xyz/watson/ArsenLupin)
 
