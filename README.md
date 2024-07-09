@@ -25,5 +25,6 @@ Audit Portfolio 💼
 |Noya| AI-agents/Layer0/DeFi| 4H, 5M, 7L |[📄](https://code4rena.com/audits/2024-04-noya#top)|   
 |Revert Lend|Lending|1H|[📄](https://code4rena.com/findings/past-finding/342?repo_name=2024-03-revert-lend-findings&issue_number=299)|
 |Olas| oracles, co-owned AI| 3H, 10M |TBA|   
-|Mellow Protocol| Staking | 5H, 5M|TBA|   
+|Mellow Protocol| Staking | 5H, 5M|TBA|  
+|CCIP Chainlink| Cross-chain | |TBA|
 
