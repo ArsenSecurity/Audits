@@ -26,5 +26,5 @@ Audit Portfolio 💼
 |Revert Lend|Lending|1H|[📄](https://code4rena.com/findings/past-finding/342?repo_name=2024-03-revert-lend-findings&issue_number=299)|34th|
 |Olas| oracles, co-owned AI| 3M |[📄](https://code4rena.com/audits/2024-05-olas#top)|7th|
 |Mellow Protocol| Staking | 5H, 5M|TBA| |
-|CCIP Chainlink| Cross-chain | |TBA| |
+|CCIP Chainlink| Cross-chain | 1M |TBA| |
 
