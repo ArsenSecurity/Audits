@@ -16,15 +16,15 @@ I am 21 years old student of the Computer Science faculty. In the December 2023 
 # Audits
 Audit Portfolio 💼 
 
-|Contest|Description|Findings|Report|Rank|
+|Contest|Description|Findings|Report|Ranking|
 |-------|-----------|--------|------|------|
 |Curves|SocialFi/Staking|1H|[📄](https://github.com/Senya123/Contests/blob/main/Curves.md)|-|
 |Blast|Layer2/Bridge|-|-|-|
 |Panoptic|Options| - | - |-|
-|Titles|SocialFi|2H, 2M|[📄](https://github.com/Senya123/Contests/blob/main/Titles.md)|9th|
-|Noya| AI-agents/Layer0/DeFi| 4H, 5M, 7L |[📄](https://code4rena.com/audits/2024-04-noya#top)|17th|
-|Revert Lend|Lending|1H|[📄](https://code4rena.com/findings/past-finding/342?repo_name=2024-03-revert-lend-findings&issue_number=299)|34th|
-|Olas| oracles, co-owned AI| 3M |[📄](https://code4rena.com/audits/2024-05-olas#top)|7th|
+|Titles|SocialFi|2H, 2M|[📄](https://github.com/Senya123/Contests/blob/main/Titles.md)|9 / 55|
+|Noya| AI-agents/Layer0/DeFi| 4H, 5M, 7L |[📄](https://code4rena.com/audits/2024-04-noya#top)|17 / 154|
+|Revert Lend|Lending|1H|[📄](https://code4rena.com/findings/past-finding/342?repo_name=2024-03-revert-lend-findings&issue_number=299)|34 / 104|
+|Olas| oracles, co-owned AI| 3M |[📄](https://code4rena.com/audits/2024-05-olas#top)|7 / 31|
 |Mellow Protocol| Staking | 2M | - |- |
 |CCIP Chainlink| Cross-chain | 2M |TBA| |
 
