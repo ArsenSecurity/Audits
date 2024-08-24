@@ -7,7 +7,8 @@ I am 21 years old student of the Computer Science faculty. In the December 2023 
 **Discord**: @[Arsen](https://discord.com/channels/@me) ,
 **Telegram**: @[Arsen](https://t.me/ars_bt) , 
 **Code4Arena** profile: [ArsenLupin](https://code4rena.com/@ArsenLupin) ,
-**Sherlock** profile: [ArsenLupin](https://audits.sherlock.xyz/watson/ArsenLupin)
+**Sherlock** profile: [ArsenLupin](https://audits.sherlock.xyz/watson/ArsenLupin),
+**Codehawks** profile: [ArsenLupin](https://codehawks.cyfrin.io/profile/clo0efgmz0000l808rjflfsbz/)
 
 # Technical articles related to the smart contract security
 [Web3 Security Articles](https://mirror.xyz/0x3Cc99bfc69575CFA83658CAb5256D98143a2aAaa)
