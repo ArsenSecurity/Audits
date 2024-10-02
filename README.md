@@ -19,14 +19,11 @@ Audit Portfolio 💼
 
 |Contest|Description|Findings|Report|Ranking|
 |-------|-----------|--------|------|------|
-|Curves|SocialFi/Staking|1H|[📄](https://github.com/Senya123/Contests/blob/main/Curves.md)|-|
-|Blast|Layer2/Bridge|-|-|-|
-|Panoptic|Options| - | - |-|
 |Titles|SocialFi|2H, 2M|[📄](https://github.com/Senya123/Contests/blob/main/Titles.md)|Top 10 🏅|
 |Noya| AI-agents/Layer0/DeFi| 4H, 5M, 7L |[📄](https://code4rena.com/audits/2024-04-noya#top)|Top 20 🏅|
 |Revert Lend|Lending|1H|[📄](https://code4rena.com/findings/past-finding/342?repo_name=2024-03-revert-lend-findings&issue_number=299)|34 / 104|
 |Olas| oracles, co-owned AI| 3M |[📄](https://code4rena.com/audits/2024-05-olas#top)|Top 10 🏅|
-|Mellow Protocol| Staking | 2M* | - |- |
 |CCIP Chainlink| Cross-chain | 1M | [📄](https://codehawks.cyfrin.io/c/2024-07-CL-CCIP/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) |Top 15🏅, (100% H/M coverage)|
-|Trait Forge| NFT Game | 2H, 1M | TBA | TBA |
+|CTF by Hacken|Proxy, NFT's|Gold NFT|[📄](https://x.com/hackenclub/status/1833873541592199649)|1st place 🏅|
+
 
