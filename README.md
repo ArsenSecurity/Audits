@@ -25,5 +25,6 @@ Audit Portfolio 💼
 |Olas| oracles, co-owned AI| 3M |[📄](https://code4rena.com/audits/2024-05-olas#top)|Top 10 🏅|1602$|
 |CCIP Chainlink| Cross-chain | 1M | [📄](https://codehawks.cyfrin.io/c/2024-07-CL-CCIP/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) |Top 15🏅, (100% H/M coverage)|10000$|
 |CTF by Hacken|Proxy, NFT's|Gold NFT|[📄](https://x.com/hackenclub/status/1833873541592199649)|1st place 🏅|500$|
+|ZetaChain|Cross-Chain|1H, 5M|[📄](https://x.com/arsen_bt/status/1844079985843372369)|Top 10 🏅|3915$|
 
 
