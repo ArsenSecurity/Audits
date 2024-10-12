@@ -1,7 +1,5 @@
 
 
-# About
-I am 21 years old student of the Computer Science faculty. In the December 2023 i finished [Smart Contract Hacking course](https://smartcontractshacking.com/) and dived full time into contests/bug bounties with the keen desire to become outstanding professional
 
 **Twitter**: @[Arsen](https://twitter.com/cambrioleurSB) , 
 **Discord**: @[Arsen](https://discord.com/channels/@me) ,
