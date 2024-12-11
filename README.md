@@ -26,10 +26,10 @@
 
 |Project|Description|Findings|Report|
 |-------|-----------|--------|------|
-|JackToken|Staking|1M, 3L|[📄](https://github.com/Senya123/Contests/blob/main/Titles.md)|
-|DarkMythos|Staking, Oracles|1M, 3L|[📄](https://github.com/Senya123/Contests/blob/main/Titles.md)|
-|XWars|VRF, Chainlink|4M|[📄](https://github.com/Senya123/Contests/blob/main/Titles.md)|
-|LeverageX|Perpetuals|-|[📄](https://github.com/Senya123/Contests/blob/main/Titles.md)|
+|JackToken|Staking|1M, 3L|[📄](-)|
+|DarkMythos|Staking, Oracles|1M, 3L|[📄](-)|
+|XWars|VRF, Chainlink|4M|[📄](-)|
+|LeverageX|Perpetuals|-|[📄](-)|
 
 
 
