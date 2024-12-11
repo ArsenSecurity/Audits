@@ -20,6 +20,7 @@
 |CCIP Chainlink| Cross-chain | 1M | [📄](https://codehawks.cyfrin.io/c/2024-07-CL-CCIP/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) |**Top 15🔝** (100% H/M coverage)|
 |CTF by Hacken|Proxy, NFT's|Gold NFT|[📄](https://x.com/hackenclub/status/1833873541592199649)|**1st place** 🏅|
 |ZetaChain|Cross-Chain|1H, 5M|[📄](https://x.com/arsen_bt/status/1844079985843372369)|**Top 10**|
+|StakeUp|Staking, LayerZero|TBA|[📄](https://x.com/arsen_bt/status/1844079985843372369)|**Top 10**|
 
 # Private Engagements
 
