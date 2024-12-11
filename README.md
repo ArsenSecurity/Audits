@@ -1,15 +1,17 @@
 
 
 
-**Twitter**: @[Arsen](https://twitter.com/cambrioleurSB) , 
-**Discord**: @[Arsen](https://discord.com/channels/@me) ,
-**Telegram**: @[Arsen](https://t.me/ars_bt) , 
-**Code4Arena** profile: [ArsenLupin](https://code4rena.com/@ArsenLupin) ,
-**Sherlock** profile: [ArsenLupin](https://audits.sherlock.xyz/watson/ArsenLupin),
-**Codehawks** profile: [ArsenLupin](https://codehawks.cyfrin.io/profile/clo0efgmz0000l808rjflfsbz/)
+- **Twitter**: @[Arsen](https://twitter.com/cambrioleurSB) 
+- **Discord**: @[Arsen](https://discord.com/channels/@me) ,
+- **Telegram**: @[Arsen](https://t.me/ars_bt) , 
+- **Code4Arena** profile: [ArsenLupin](https://code4rena.com/@ArsenLupin) ,
+- **Sherlock** profile: [ArsenLupin](https://audits.sherlock.xyz/watson/ArsenLupin),
+- **Codehawks** profile: [ArsenLupin](https://codehawks.cyfrin.io/profile/clo0efgmz0000l808rjflfsbz/)
 
 # Public work
-[Web3 Security Articles](https://mirror.xyz/0x3Cc99bfc69575CFA83658CAb5256D98143a2aAaa)
+- [**Web3 Security Articles**](https://mirror.xyz/0x3Cc99bfc69575CFA83658CAb5256D98143a2aAaa)
+- [**ZkSync Bugs Checklist**](https://github.com/Senya123/ZkSync-PreviousBugs)
+- [**Bug Bounties WriteUps**](https://github.com/Senya123/Bounties-Exploit-Bugs)
 
 
 # Audits
