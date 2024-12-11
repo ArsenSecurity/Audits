@@ -2,10 +2,10 @@
 
 
 - **Twitter**: @[Arsen](https://twitter.com/cambrioleurSB) 
-- **Discord**: @[Arsen](https://discord.com/channels/@me) ,
-- **Telegram**: @[Arsen](https://t.me/ars_bt) , 
-- **Code4Arena** profile: [ArsenLupin](https://code4rena.com/@ArsenLupin) ,
-- **Sherlock** profile: [ArsenLupin](https://audits.sherlock.xyz/watson/ArsenLupin),
+- **Discord**: @[Arsen](https://discord.com/channels/@me) 
+- **Telegram**: @[Arsen](https://t.me/ars_bt) 
+- **Code4Arena** profile: [ArsenLupin](https://code4rena.com/@ArsenLupin) 
+- **Sherlock** profile: [ArsenLupin](https://audits.sherlock.xyz/watson/ArsenLupin)
 - **Codehawks** profile: [ArsenLupin](https://codehawks.cyfrin.io/profile/clo0efgmz0000l808rjflfsbz/)
 
 # Public work
