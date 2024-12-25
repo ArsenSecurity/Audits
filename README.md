@@ -20,14 +20,14 @@
 |CCIP Chainlink| Cross-chain | 1M | [📄](https://codehawks.cyfrin.io/c/2024-07-CL-CCIP/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) |**Top 15🔝** (100% H/M coverage)|
 |CTF by Hacken|Proxy, NFT's|Gold NFT|[📄](https://x.com/hackenclub/status/1833873541592199649)|**1st place** 🏅|
 |ZetaChain|Cross-Chain|1H, 5M|[📄](https://x.com/arsen_bt/status/1844079985843372369)|**Top 10**|
-|StakeUp|Staking, LayerZero|3H, 5M|[📄](https://cantina.xyz/competitions/61087007-c7e9-4c4e-9d90-4e118933fecf/leaderboard)|**12th place**|
+|StakeUp|Staking, LayerZero|3H, 5M|[📄](https://cantina.xyz/competitions/61087007-c7e9-4c4e-9d90-4e118933fecf/leaderboard)|**Top 15**|
 
 # Private Engagements
 
 |Project|Description|Findings|Report|
 |-------|-----------|--------|------|
-|JackToken|Staking|1M, 3L|[📄](-)|
-|DarkMythos|Staking, Oracles|1M, 3L|[📄](-)|
+|JackToken|Staking|1M, 3L|[📄](https://www.auditone.io/audit-report/jacktoken-audit)|
+|DarkMythos|Staking, Oracles|1M, 3L|[📄](https://www.canva.com/design/DAGZE5s9z8k/Ea7r_lScawxzl1RGTeY7YQ/edit)|
 |XWars|VRF, Chainlink|4M|[📄](-)|
 |LeverageX|Perpetuals|-|[📄](-)|
 
