@@ -14,7 +14,7 @@
 |Contest|Description|Findings|Report|Ranking|
 |-------|-----------|--------|------|------|
 |Titles|SocialFi|2H, 2M|[📄](https://github.com/Senya123/Contests/blob/main/Titles.md)|[**Top 10**](https://audits.sherlock.xyz/contests/326/leaderboard)|
-|Noya| AI-agents/Layer0/DeFi| 4H, 5M, 7L |[📄](https://code4rena.com/audits/2024-04-noya#top)|[**Top 20**](https://code4rena.com/audits/2024-04-noya)|
+|Noya| AI-agents/Layer0/DeFi| 4H, 5M, 7L |[📄](https://code4rena.com/audits/2024-04-noya#top)|[**Top 17**](https://code4rena.com/audits/2024-04-noya)|
 |Olas| oracles, co-owned AI| 3M |[📄](https://github.com/ArsenSecurity/Contests/blob/main/Olas.md)|[**Top 10**](https://code4rena.com/audits/2024-05-olas)|
 |CCIP Chainlink| Cross-chain | 1M | [📄](https://github.com/ArsenSecurity/Contests/blob/main/CCIP.md) |[**Top 15🔝**](https://codehawks.cyfrin.io/c/2024-07-CL-CCIP/results?lt=contest&sc=reward&sj=reward&page=1&t=leaderboard) (100% H/M coverage)|
 |CTF by Hacken|Proxy, NFT's|Gold NFT|[📄](https://x.com/hackenclub/status/1833873541592199649)|[**1st place**🏅](https://x.com/hackenclub/status/1833873541592199649)|
