@@ -13,14 +13,13 @@
 
 |Contest|Description|Findings|Report|Ranking|
 |-------|-----------|--------|------|------|
-|Titles|SocialFi|2H, 2M|[📄](https://github.com/Senya123/Contests/blob/main/Titles.md)|**Top 10**|
-|Noya| AI-agents/Layer0/DeFi| 4H, 5M, 7L |[📄](https://code4rena.com/audits/2024-04-noya#top)|**Top 20**|
-|Revert Lend|Lending|1H|[📄](https://code4rena.com/findings/past-finding/342?repo_name=2024-03-revert-lend-findings&issue_number=299)|34 / 104|
-|Olas| oracles, co-owned AI| 3M |[📄](https://code4rena.com/audits/2024-05-olas#top)|**Top 10**|
-|CCIP Chainlink| Cross-chain | 1M | [📄](https://codehawks.cyfrin.io/c/2024-07-CL-CCIP/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) |**Top 15🔝** (100% H/M coverage)|
-|CTF by Hacken|Proxy, NFT's|Gold NFT|[📄](https://x.com/hackenclub/status/1833873541592199649)|**1st place** 🏅|
-|ZetaChain|Cross-Chain|1H, 5M|[📄](https://x.com/arsen_bt/status/1844079985843372369)|**Top 10**|
-|StakeUp|Staking, LayerZero|3H, 5M|[📄](https://cantina.xyz/competitions/61087007-c7e9-4c4e-9d90-4e118933fecf/leaderboard)|**Top 15**|
+|Titles|SocialFi|2H, 2M|[📄](https://github.com/Senya123/Contests/blob/main/Titles.md)|[**Top 10**](https://audits.sherlock.xyz/contests/326/leaderboard)|
+|Noya| AI-agents/Layer0/DeFi| 4H, 5M, 7L |[📄](https://code4rena.com/audits/2024-04-noya#top)|[**Top 20**](https://code4rena.com/audits/2024-04-noya)|
+|Olas| oracles, co-owned AI| 3M |[📄](https://code4rena.com/audits/2024-05-olas#top)|[**Top 10**](https://code4rena.com/audits/2024-05-olas)|
+|CCIP Chainlink| Cross-chain | 1M | [📄](https://codehawks.cyfrin.io/c/2024-07-CL-CCIP/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) |[**Top 15🔝**](https://codehawks.cyfrin.io/c/2024-07-CL-CCIP/results?lt=contest&sc=reward&sj=reward&page=1&t=leaderboard) (100% H/M coverage)|
+|CTF by Hacken|Proxy, NFT's|Gold NFT|[📄](https://x.com/hackenclub/status/1833873541592199649)|[**1st place**🏅](https://x.com/hackenclub/status/1833873541592199649)|
+|ZetaChain|Cross-Chain|1H, 5M|[📄](https://x.com/arsen_bt/status/1844079985843372369)|[**Top 10**](https://cantina.xyz/competitions/80a33cf0-ad69-4163-a269-d27756aacb5e/leaderboard)|
+|StakeUp|Staking, LayerZero|3H, 5M|[📄](https://cantina.xyz/competitions/61087007-c7e9-4c4e-9d90-4e118933fecf/leaderboard)|[**Top 12**](https://cantina.xyz/competitions/61087007-c7e9-4c4e-9d90-4e118933fecf/leaderboard)|
 
 # Private Engagements
 
