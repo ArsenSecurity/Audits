@@ -8,7 +8,7 @@
 |Contest|Description|Findings|Report|Ranking|
 |-------|-----------|--------|------|------|
 |TON pools| Staking, Governance |1H, 1M|[📄]()|[**1st place**🏅](https://cantina.xyz/competitions/e9e9b3e0-f213-45e4-8d05-d72bf0c8787a/leaderboard)|
-|CTF by Hacken|Proxy, NFT's|Gold NFT|[📄](https://x.com/hackenclub/status/1833873541592199649)|[**1st place**🏅](https://x.com/hackenclub/status/1833873541592199649)|
+|CTF by Hacken|Proxy, NFT's|JSR role|[📄](https://x.com/hackenclub/status/1833873541592199649)|[**1st place**🏅](https://x.com/hackenclub/status/1833873541592199649)|
 |CCIP Chainlink| Cross-chain | 1M | [📄](https://github.com/ArsenSecurity/Contests/blob/main/CCIP.md) |[**100% H/M coverage🏅**](https://codehawks.cyfrin.io/c/2024-07-CL-CCIP/results?lt=contest&sc=reward&sj=reward&page=1&t=leaderboard)|
 |Titles|SocialFi|2H, 2M|[📄](https://github.com/Senya123/Contests/blob/main/Titles.md)|[**Top 10**](https://audits.sherlock.xyz/contests/326/leaderboard)|
 |ZetaChain|Cross-Chain|1H, 5M|[📄](https://github.com/ArsenSecurity/Contests/blob/main/ZetaChain.md)|[**Top 10**](https://cantina.xyz/competitions/80a33cf0-ad69-4163-a269-d27756aacb5e/leaderboard)|
