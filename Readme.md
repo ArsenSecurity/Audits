@@ -2,6 +2,7 @@
 - **Telegram**: [Arsen](https://t.me/arsen_cryptosec) 
 - **Public Profile** profile: [ArsenLupin](https://audits.sherlock.xyz/watson/ArsenLupin)
 - **Codehawks** profile: [ArsenLupin](https://codehawks.cyfrin.io/profile/clo0efgmz0000l808rjflfsbz/)
+- **AuditOne** profile: [ArsenLupin](https://app.auditone.io/u/semen)
 
 # Public engagements  
 
@@ -27,11 +28,14 @@
 |XWars|VRF, Chainlink|4M|[📄](-)|East-Europe Hats|
 |LeverageX|Perpetuals|1H, 5M|[📄](TBA)|AuditOne|
 |After protocol|Lending/Velodrome|1M, 5L|[📄](TBA)|Arsen Security|
-|TBA|TBA|1H, 1M|[📄](TBA)|Zenith|
-|TBA|TBA|1H, 1M|[📄](TBA)|Guardian Audits|
+|Mighty Bear|Restaking|1H, 1M|[📄](https://github.com/zenith-security/reports/blob/main/reports/Mighty%20Bear%20-%20Zenith%20Audit%20Report.pdf)|Zenith|
+|Synthetix Auto Compound|Restaking|1C, 3H, 2M|[📄](TBA)|Guardian Audits|
+|Synthetix Vault|Restaking|2C, 4H, 7M|[📄](TBA)|Guardian Audits|
+|Bitbond|Staking, DiamondProxy|TBA|[📄](TBA)|AuditOne|
 
 
 # Public work
+- [**Public Interview with Johny. My success story**](https://www.youtube.com/watch?v=KTjlWgYiMF4&t=505s)
 - [**How to build a secure project. Free guide**](https://www.arsensecurity.com/blog/how-to-build-a-secure-project-free-guide)
 - [**Web3 Security Articles**](https://mirror.xyz/0x3Cc99bfc69575CFA83658CAb5256D98143a2aAaa)
 - [**ZkSync Bugs Checklist**](https://github.com/Senya123/ZkSync-PreviousBugs)
