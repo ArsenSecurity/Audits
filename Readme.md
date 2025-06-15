@@ -32,6 +32,7 @@
 |Synthetix Auto Compound|Restaking|1C, 3H, 2M|[📄](TBA)|Guardian Audits|
 |Synthetix Vault|Restaking|2C, 4H, 7M|[📄](TBA)|Guardian Audits|
 |Bitbond|Staking, DiamondProxy|TBA|[📄](TBA)|AuditOne|
+|Near|Bitcoin Light Client|TBA|[📄](TBA)|AuditOne|
 
 
 # Public work
