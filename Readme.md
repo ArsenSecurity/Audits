@@ -30,9 +30,10 @@
 |After protocol|Lending/Velodrome|1M, 5L|[📄](TBA)|Arsen Security|
 |Mighty Bear|Restaking|1H, 1M|[📄](https://github.com/zenith-security/reports/blob/main/reports/Mighty%20Bear%20-%20Zenith%20Audit%20Report.pdf)|Zenith|
 |Synthetix Auto Compound|Restaking|1C, 3H, 2M|[📄](TBA)|Guardian Audits|
-|Synthetix Vault|Restaking|2C, 4H, 7M|[📄](TBA)|Guardian Audits|
-|Bitbond|Staking, DiamondProxy|2H, 2M|[📄](TBA)|AuditOne|
+|Synthetix Vault|Restaking|2C, 4H, 7M|[📄](private)|Guardian Audits|
+|Bitbond|Staking, DiamondProxy|2H, 2M|[📄](private)|AuditOne|
 |Near|Bitcoin Light Client|TBA|[📄](TBA)|AuditOne|
+|Universal Vault|Oracle, ERC4626|TBA|[📄](TBA)|Guardian Audits|
 
 
 # Public work
