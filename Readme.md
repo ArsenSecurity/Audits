@@ -28,12 +28,12 @@
 |XWars|VRF, Chainlink|4M|[📄](-)|East-Europe Hats|
 |LeverageX|Perpetuals|1H, 5M|[📄](TBA)|AuditOne|
 |After protocol|Lending/Velodrome|1M, 5L|[📄](TBA)|Arsen Security|
-|Mighty Bear|Restaking|1H, 1M|[📄](https://github.com/zenith-security/reports/blob/main/reports/Mighty%20Bear%20-%20Zenith%20Audit%20Report.pdf)|Zenith|
-|Synthetix Auto Compound|Restaking|1C, 3H, 2M|[📄](TBA)|Guardian Audits|
-|Synthetix Vault|Restaking|2C, 4H, 7M|[📄](private)|Guardian Audits|
-|Bitbond|Staking, DiamondProxy|2H, 2M|[📄](private)|AuditOne|
-|Near|Bitcoin Light Client|TBA|[📄](TBA)|AuditOne|
-|Universal Vault|Oracle, ERC4626|TBA|[📄](TBA)|Guardian Audits|
+|Mighty Bear|Restaking|1H, 1M|[📄](https://github.com/zenith-security/reports/blob/main/reports/Mighty%20Bear%20-%20Zenith%20Audit%20Report.pdf)|**Zenith**|
+|Synthetix Auto Compound|Restaking|1C, 3H, 2M|[private]|**Guardian Audits**|
+|Synthetix Vault|Restaking|2C, 4H, 7M|[private]|**Guardian Audits**|
+|Bitbond|Staking, DiamondProxy|2H, 2M|[📄](https://www.canva.com/en_gb/login/?redirect=%2Fdesign%2FDAGqak9L9QQ%2FSw5D625I_p5CL8JeB1FMOg%2Fedit)|AuditOne|
+|Near Blockchain|Bitcoin Light Client|TBA|[📄](TBA)|AuditOne|
+|Universal Vault|Oracle, ERC4626|TBA|[📄](TBA)|**Guardian Audits**|
 
 
 # Public work
