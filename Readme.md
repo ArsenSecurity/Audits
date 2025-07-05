@@ -1,5 +1,5 @@
 - **Twitter**: [Arsen](https://x.com/arsen_bt) 
-- **Telegram**: [Arsen](https://t.me/arsen_cryptosec) 
+- **Telegram**: [Arsen](https://t.me/arsen_security) 
 - **Public Profile** profile: [ArsenLupin](https://audits.sherlock.xyz/watson/ArsenLupin)
 - **Codehawks** profile: [ArsenLupin](https://codehawks.cyfrin.io/profile/clo0efgmz0000l808rjflfsbz/)
 - **AuditOne** profile: [ArsenLupin](https://app.auditone.io/u/semen)
@@ -35,10 +35,16 @@
 |Near Blockchain|Bitcoin Light Client|TBA|[📄](TBA)|AuditOne|
 |Universal Vault|Oracle, ERC4626|TBA|[📄](TBA)|**Guardian Audits**|
 
+# Testimonials
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/1e07b998-ae22-4cd0-84c0-6de6b253b106" width="400" />
+  <img src="https://github.com/user-attachments/assets/4b914395-a52b-4bd6-8de0-668c62001519" width="400" />
+</p>
 
-# Public work
+
+
+# Public Presence
 - [**Public Interview with Johny. My success story**](https://www.youtube.com/watch?v=KTjlWgYiMF4&t=505s)
-- [**How to build a secure project. Free guide**](https://www.arsensecurity.com/blog/how-to-build-a-secure-project-free-guide)
 - [**Web3 Security Articles**](https://mirror.xyz/0x3Cc99bfc69575CFA83658CAb5256D98143a2aAaa)
 - [**ZkSync Bugs Checklist**](https://github.com/Senya123/ZkSync-PreviousBugs)
 - [**Bug Bounties WriteUps**](https://github.com/Senya123/Bounties-Exploit-Bugs)
