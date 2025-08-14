@@ -33,8 +33,8 @@
 |Synthetix Vault|Restaking|2C, 4H, 7M|[private]|**Guardian Audits**|
 |Bitbond|Staking, DiamondProxy|2H, 2M|[📄](https://www.canva.com/en_gb/login/?redirect=%2Fdesign%2FDAGqak9L9QQ%2FSw5D625I_p5CL8JeB1FMOg%2Fedit)|AuditOne|
 |Near Blockchain|Bitcoin Light Client|TBA|[📄](TBA)|AuditOne|
-|Universal Vault|Oracle, ERC4626|TBA|[📄](TBA)|**Guardian Audits**|
-|Layer Zero|Cross chain|TBA|[📄](TBA)|**Spearbit**|
+|Universal Vault|Oracle, ERC4626|1M, 1L|[private]|**Guardian Audits**|
+|Layer Zero|Cross chain|TBA|[📄](4L)|**Spearbit**|
 |Alvara Protocol|Staking|TBA|[📄](TBA)|**Adevar Labs**|
 
 # Testimonials
