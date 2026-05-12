@@ -29,7 +29,6 @@
 | Mace Labs                 | Staking             | Rust     |
 | Vortex                    | CLMM            | Rust     |
 | Carrot Lend               | Liquid Staking  | Rust     |
-| Mace Labs #2              | TBA             | Rust     |
 | Ignition                  | Liquid Staking  | Rust     |
 | M0                        | Cross-chain     | Rust     |
 | Tokka                     | CLMM             | Rust     |
