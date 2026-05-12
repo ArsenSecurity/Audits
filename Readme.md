@@ -1,4 +1,4 @@
-# Arsen — Smart Contract Security Auditor
+# Arsen — Security Engineer
 
 ## Contacts
 
