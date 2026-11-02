@@ -45,7 +45,7 @@
 | ----------------------- | ---------------------- | ------------------- |
 | LayerZero               | Cross-chain            | **Spearbit**        |
 | Mighty Bear             | Restaking              | **Zenith**          |
-| Universal Vault         | Oracle, ERC-4626       | **Guardian Audits** |
+| Universal Vault         | Restaking       | **Guardian Audits** |
 | Synthetix Auto Compound | Restaking              | **Guardian Audits** |
 | Synthetix Vault         | Restaking              | **Guardian Audits** |
 | LeverageX               | Perpetuals             | AuditOne            |
